@@ -1,4 +1,4 @@
-# ** Clueless ! **
+# Clueless !
 
 An automated outfit picker/closet app (inspired by Clueless :') ) built using Python and Tkinter
 
